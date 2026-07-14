@@ -27,13 +27,10 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 
 ### Pruebas realizadas:
--
--
--
+- probe compilar el codigo correctamente
+- no se realizaron pruebas con los motores 
 
 ### Resultados obtenidos:
-- se avanzo en el desarrollo de la programacion del robot y se identificaron errores para corregir 
-
-### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+- se avanzo en el desarrollo de la programacion del robot
 
 
