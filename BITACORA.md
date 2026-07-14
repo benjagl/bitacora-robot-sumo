@@ -1,10 +1,10 @@
 
 
-# BITÁCORA DE PROYECTO – ROBOT SUMO
+# BITÁCORA DE PROYECTO – ROBOT SUMO - Benjamin Gonzalez Lainez
 
 
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 
+### Fecha: 14/7/26
 ### Integrantes presentes:
 - Benjamin Gonzalez Lainez
 
