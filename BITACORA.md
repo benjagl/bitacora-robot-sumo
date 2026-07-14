@@ -9,28 +9,28 @@
 - Benjamin Gonzalez Lainez
 
 ### Objetivos de la jornada:
-- desarrollar y mejorar el codigo en C del robot.
-- verificar que funcione el codigo
+- desarrollar y mejorar el código en C del robot.
+- verificar que funcione el código
 - corregir errores detectados 
 
 ### Actividades realizadas:
-- programe el funcionamiento del robot usando lenguaje en C
-- realice modificaciones y ajustes en el codigo
-- revise la estructura del programa 
+- programé el funcionamiento del robot usando lenguaje en C
+- realicé modificaciones y ajustes en el código
+- revisé la estructura del programa 
 
 ### Problemas encontrados:
 - se presentaron dificultades para que el codigo compilara correctamente por errores de programacion
 
 ### Soluciones implementadas o propuestas:
-- revise el codigo para identificar y corregir los errores de compilacion
-- se propuso seguir haciendo ajustes para lograr que el codigo compile correctamente
+- revisé el codigo para identificar y corregir los errores de compilacion
+- se propuso seguir haciendo ajustes para lograr que el código compile correctamente
 
 
 ### Pruebas realizadas:
-- probe compilar el codigo correctamente
+- probé compilar el codigo correctamente
 - no se realizaron pruebas con los motores 
 
 ### Resultados obtenidos:
-- se avanzo en el desarrollo de la programacion del robot
+- se avanzé en el desarrollo de la programación del robot
 
 
