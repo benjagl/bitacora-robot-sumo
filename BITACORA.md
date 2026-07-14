@@ -31,6 +31,6 @@
 - no se realizaron pruebas con los motores 
 
 ### Resultados obtenidos:
-- se avanzé en el desarrollo de la programación del robot
+- se avanzó en el desarrollo de la programación del robot
 
 
