@@ -1,4 +1,4 @@
-NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo correspondiente
+
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
